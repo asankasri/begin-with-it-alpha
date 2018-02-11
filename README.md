@@ -1,1 +1,3 @@
-# begin-with-it-alpha
+# Begin With It (alpha)
+
+* Angular 
