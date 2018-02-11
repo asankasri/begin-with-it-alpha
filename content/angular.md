@@ -1,4 +1,4 @@
-# ![Angular](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) Angular
+# ![Angular](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/angular.svg) Angular
 
 Official website: [https://angular.io/](https://angular.io/)
 
