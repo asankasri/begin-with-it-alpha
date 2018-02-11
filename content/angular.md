@@ -4,6 +4,8 @@ Official website: [https://angular.io](https://angular.io)
 
 Docs: [https://angular.io/docs](https://angular.io/docs)
 
+Github: [https://github.com/angular/angular](https://github.com/angular/angular)
+
 ## Intro
 
 Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
