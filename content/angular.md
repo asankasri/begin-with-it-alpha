@@ -1,7 +1,8 @@
 # Angular
 
-Official website: https://angular.io/
-Docs: https://angular.io/docs
+Official website: [https://angular.io/](https://angular.io/)
+
+Docs: [https://angular.io/docs](https://angular.io/docs)
 
 ## Intro
 
