@@ -1,1 +1,2 @@
-Type: svg
+Type: png
+Size: 40x40
