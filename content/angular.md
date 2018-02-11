@@ -1,6 +1,6 @@
 # ![Angular](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/angular.png "Angular") Angular
 
-Official websitexx: [https://angular.io/](https://angular.io/)
+Official website: [https://angular.io/](https://angular.io/)
 
 Docs: [https://angular.io/docs](https://angular.io/docs)
 
