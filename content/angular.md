@@ -11,3 +11,9 @@ Angular is a development platform for building mobile and desktop web applicatio
 ## Quickstart
 
 Good tools make application development quicker and easier to maintain than if you did everything by hand.
+
+### Installation
+
+```
+npm install -g @angular/cli
+```
