@@ -1,4 +1,4 @@
-# ![Angular](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Angular") Angular
+# ![Angular](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Angular" =40x40) Angular
 
 Official website: [https://angular.io/](https://angular.io/)
 
