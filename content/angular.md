@@ -17,3 +17,9 @@ Good tools make application development quicker and easier to maintain than if y
 ```
 npm install -g @angular/cli
 ```
+
+### Create a new project
+
+```
+ng new my-app
+```
