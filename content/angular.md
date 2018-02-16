@@ -4,7 +4,11 @@
 
 ![Angular](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/angular.png "Angular)
 
+![Angular](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/angular.png)
 
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Official website: [https://angular.io](https://angular.io)
 
