@@ -1,6 +1,6 @@
 # ![Begin With It](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/begin-with-it.png "Begin With It") Begin With It (alpha)
 
-Main content provier of [https://beginwith.it](https://begin-with-it-app.herokuapp.com/). But this repo will be forever independent and will be growing with community support.
+Main content provier of [https://beginwith.it](https://begin-with-it-app.herokuapp.com/). But this repo is totally independent and will be growing with the community support.
 
 ## What?
 A simple guide to begin with IT technologies.
