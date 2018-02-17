@@ -1,8 +1,14 @@
-# [![Begin With It](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/begin-with-it.png)](https://github.com/sindresorhus/awesome) Begin With It (alpha)
+# ![Begin With It](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/begin-with-it.png "Begin With It") Begin With It (alpha)
 
 Official Website: [https://beginwith.it](https://begin-with-it-app.herokuapp.com/)
 
-### Let's begin with,
+## What?
+A simple guide to begin with IT technologies.
+
+## Why?
+Even though there are massive amount of blogs, books, tutorials & courses, it's better to have a place to help beginners to start their journey with unfamiliar technoliges in a short time as much as possible. Idea of creating [https://beginwith.it](https://begin-with-it-app.herokuapp.com/) is to provide short, simple & clean yet helpful guide for the beginners.
+
+### Ok, Let's begin with,
 * [Angular](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/angular.md)
 * [Apache Cassandra](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/apache-cassandra.md)
 * [Apache CouchDB](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/apache-couchdb.md)
