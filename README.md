@@ -1,12 +1,12 @@
 # ![Begin With It](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/begin-with-it.png "Begin With It") Begin With It (alpha)
 
-Main content provier of [https://beginwith.it](https://begin-with-it-app.herokuapp.com/). But this repo is totally independent and will be growing with the community support.
+This repo is the main content provier of [https://beginwith.it](https://begin-with-it-app.herokuapp.com/), but still totally independent from the website and the content will be growing with the community support.
 
 ## What?
 A simple guide to begin with IT technologies.
 
 ## Why?
-Alex is new to some technology and he need to begin with it in a short time. He found out there are massive amount of blogs, books, tutorials & courses. He is still counfused and looking for a short, simple & clean, but yet helpful guide. Let's help him?
+Alex is new to some technology and he need to begin with it in a short time. He found out there are massive amount of blogs, books, tutorials & courses. He is still counfused and looking for a short, simple & clean, but yet helpful guide. This would be the right place for him.
 
 ### Ok, Let's begin with,
 * [Angular](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/angular.md)
