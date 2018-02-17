@@ -26,6 +26,8 @@ npm install -g @angular/cli
 ng new my-app
 ```
 
+To be continued...
+
 ## Courses & Tutorials
 
 * [The Complete Angular Course: Beginner to Advanced (udemy.com)](https://www.udemy.com/the-complete-angular-master-class/)
