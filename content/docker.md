@@ -2,7 +2,7 @@
 
 Official website: [https://www.docker.com](https://www.docker.com)
 
-Documentation: [https://docs.docker.com](https://docs.docker.com)
+Docs: [https://docs.docker.com](https://docs.docker.com)
 
 Github: [https://github.com/docker](https://github.com/docker)
 
