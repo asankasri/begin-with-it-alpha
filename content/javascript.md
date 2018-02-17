@@ -1,4 +1,4 @@
-# ![Bootstrap](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/bootstrap.png "Bootstrap") Begin with Bootstrap
+# ![Javascript](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/javascript.png "Javascript") Begin with Javascript
 
 Website (by Code School): [https://www.javascript.com](https://www.javascript.com)
 
