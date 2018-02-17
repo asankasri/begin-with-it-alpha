@@ -6,7 +6,7 @@ Official Website: [https://beginwith.it](https://begin-with-it-app.herokuapp.com
 A simple guide to begin with IT technologies.
 
 ## Why?
-Even though there are massive amount of blogs, books, tutorials & courses, it's better to have a place to help beginners to start their journey with unfamiliar technoliges in a short time as much as possible. Idea of creating [https://beginwith.it](https://begin-with-it-app.herokuapp.com/) is to provide short, simple & clean yet helpful guide for the beginners.
+Even though there are massive amount of blogs, books, tutorials & courses, it's better to have a place to help beginners to start their journey with unfamiliar technoliges in a short time as much as possible. Idea of creating [https://beginwith.it](https://begin-with-it-app.herokuapp.com/) is to provide short, simple & clean, but yet helpful guide for the beginners.
 
 ### Ok, Let's begin with,
 * [Angular](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/angular.md)
