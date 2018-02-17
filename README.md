@@ -8,7 +8,7 @@ The content will be growing forever with the community support.
 A simple guide to begin with IT technologies.
 
 ## Why?
-Alex is new to some technology and he need to begin with it in a short time. He found out there are massive amount of blogs, books, tutorials & courses. He is still counfused and looking for a short, simple & clean, but yet helpful guide. This would be the perfect place for him.
+Alex is new to some technology and need to begin with it in a short time. He found out there are massive amount of blogs, books, tutorials & courses, but still counfused and looking for a short, simple & clean, but yet helpful guide. This would be the perfect place for him.
 
 ### Ok, Let's begin with,
 * [Angular](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/angular.md)
