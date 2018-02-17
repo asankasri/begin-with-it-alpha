@@ -1,4 +1,4 @@
-# ![Bootstrap](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/bootstrap.png "Apache Bootstrap]") Begin with Bootstrap
+# ![Bootstrap](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/bootstrap.png "Bootstrap") Begin with Bootstrap
 
 Official website: [https://getbootstrap.com](https://getbootstrap.com)
 
