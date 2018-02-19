@@ -6,6 +6,11 @@ Docs: [https://angular.io/docs](https://angular.io/docs)
 
 Github: [https://github.com/angular/angular](https://github.com/angular/angular)
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ## Intro
 
 Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
