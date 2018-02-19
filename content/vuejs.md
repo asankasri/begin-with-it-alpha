@@ -1,4 +1,6 @@
-# ![Vue.js](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/vuejs_48x48.png "Vue.js") Begin with Vue.js
+![Vue.js](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/vuejs_48x48.png "Vue.js")
+
+# Begin with Vue.js
 
 Official website: [https://vuejs.org](https://vuejs.org)
 
