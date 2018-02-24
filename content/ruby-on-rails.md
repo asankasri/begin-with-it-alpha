@@ -1,4 +1,4 @@
-# ![Ruby On Rails](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ruby-on-rails.png "Ruby On Rails") Begin with Ruby On Rails
+# ![Ruby On Rails](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ruby-on-rails_128x128.png "Ruby On Rails") Begin with Ruby On Rails
 
 Official website: [http://rubyonrails.org](http://rubyonrails.org)
 
