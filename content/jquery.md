@@ -1,4 +1,4 @@
-# ![jQuery](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/jquery.png "jQuery") Begin with jQuery
+# ![jQuery](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/jquery_128x128.png "jQuery") Begin with jQuery
 
 Official website: [https://jquery.com](https://jquery.com)
 
