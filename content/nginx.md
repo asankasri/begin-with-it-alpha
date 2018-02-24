@@ -1,4 +1,4 @@
-# ![Nginx](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/nginx.png "Nginx") Begin with Nginx
+# ![Nginx](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/nginx_128x128.png "Nginx") Begin with Nginx
 
 Official website: [https://nginx.org/en/](https://nginx.org/en/)
 
