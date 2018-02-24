@@ -1,4 +1,4 @@
-# ![ECMAScript](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ecmascript.png "ECMAScript") Begin with ECMAScript
+# ![ECMAScript](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ecmascript_128x128.png "ECMAScript") Begin with ECMAScript
 
 Official website: [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
 
