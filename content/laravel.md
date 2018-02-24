@@ -1,4 +1,4 @@
-# ![Laravel](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/laravel.png "Laravel") Begin with Laravel
+# ![Laravel](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/laravel_128x128.png "Laravel") Begin with Laravel
 
 Official website: [https://laravel.com](https://laravel.com)
 
