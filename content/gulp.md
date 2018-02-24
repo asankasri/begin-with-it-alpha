@@ -1,4 +1,4 @@
-# ![Gulp](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/gulp.png "Gulp") Begin with Gulp
+# ![Gulp](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/gulp_128x128.png "Gulp") Begin with Gulp
 
 Official website: [https://gulpjs.com](https://gulpjs.com)
 
