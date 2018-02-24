@@ -1,4 +1,4 @@
-# ![Node.js](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/nodejs.png "Node.js") Begin with Node.js
+# ![Node.js](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/nodejs_128x128.png "Node.js") Begin with Node.js
 
 Official website: [https://nodejs.org](https://nodejs.org)
 
