@@ -4,7 +4,7 @@ For writing the Begin With It pages, we will be using Markdown syntax. Following
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Followings are the guidelines of writing the pages.
+Followings are the guidelines of writing the pages which should be located in [/content](https://github.com/asankasri/begin-with-it-alpha/tree/master/content) directorly.
 
 ## File Name
 * Name of the file should be lowercase and seperated with hyphen for multiple words
@@ -20,6 +20,7 @@ Followings are the guidelines of writing the pages.
 * Content
 
 ### >>> Icon
+* Icons should be located in [/icons](https://github.com/asankasri/begin-with-it-alpha/tree/master/icons) directorly
 * Icon names should follow the file names
 * Icon format is .png and the size is 128x128
 * So that the full name of the should be, {filename}_128x128.png
