@@ -1,4 +1,4 @@
-# ![Socket.io](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/socket-io.png "Socket.io") Begin with Socket.io
+# ![Socket.io](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/socket-io_128x128.png "Socket.io") Begin with Socket.io
 
 Official website: [https://socket.io](https://socket.io)
 
