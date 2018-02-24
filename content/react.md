@@ -1,4 +1,4 @@
-# ![React](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/react_48x48.png "React") Begin with React
+# ![React](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/react_128x128.png "React") Begin with React
 
 Official website: [https://reactjs.org](https://reactjs.org)
 
