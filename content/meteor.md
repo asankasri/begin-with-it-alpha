@@ -1,4 +1,4 @@
-# ![Meteor](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/meteor.png "Meteor") Begin with Meteor
+# ![Meteor](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/meteor_128x128.png "Meteor") Begin with Meteor
 
 Official website: [https://www.meteor.com](https://www.meteor.com)
 
