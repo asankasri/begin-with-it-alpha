@@ -2,7 +2,7 @@
 
 This repo is the main content provier of [https://beginwith.it](https://begin-with-it-app.herokuapp.com/), but yet fully independent from the website. 
 
-The content will be growing forever with the community support. Guideline: [See](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/README.md)
+The content will be growing forever with the community support. See the [Guideline](https://github.com/asankasri/begin-with-it-alpha/blob/master/content/README.md)
 
 ## What?
 A simple guide to begin with IT technologies.
