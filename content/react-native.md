@@ -1,4 +1,4 @@
-# ![React Native](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/react-native.png "React Native") Begin with React Native
+# ![React Native](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/react-native_128x128.png "React Native") Begin with React Native
 
 Official website: [https://facebook.github.io/react-native](https://facebook.github.io/react-native)
 
