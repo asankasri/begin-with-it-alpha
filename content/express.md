@@ -1,4 +1,4 @@
-# ![Express](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/express.png "Express") Begin with Express
+# ![Express](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/express_128x128.png "Express") Begin with Express
 
 Official website: [https://expressjs.com](https://expressjs.com)
 
