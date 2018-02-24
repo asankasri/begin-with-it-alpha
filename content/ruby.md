@@ -1,4 +1,4 @@
-# ![Ruby](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ruby.png "Ruby") Begin with Ruby
+# ![Ruby](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ruby_128x128.png "Ruby") Begin with Ruby
 
 Official website: [https://www.ruby-lang.org](https://www.ruby-lang.org)
 
