@@ -1,4 +1,4 @@
-# ![CSS](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/css.png "CSS") Begin with CSS
+# ![CSS](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/css_128x128.png "CSS") Begin with CSS
 
 Official website: [https://www.w3.org/Style/CSS/Overview.en.html)
 
