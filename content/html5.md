@@ -1,4 +1,4 @@
-# ![HTML5](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/html5.png "HTML5") Begin with HTML5
+# ![HTML5](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/html5_128x128.png "HTML5") Begin with HTML5
 
 Official website: [https://www.w3.org/TR/html52/](https://www.w3.org/TR/html52/)
 
