@@ -1,4 +1,4 @@
-# ![Sass](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/sass.png "Sass") Begin with Sass
+# ![Sass](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/sass_128x128.png "Sass") Begin with Sass
 
 Official website: [https://sass-lang.com](https://sass-lang.com)
 
