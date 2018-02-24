@@ -19,7 +19,7 @@ Followings are the guidelines of writing the pages.
 * Official Links
 * Content
 
-### Icon
+### >>> Icon
 * Icon names should follow the file names
 * Icon format is .png and the size is 128x128
 * So that the full name of the should be, {filename}_128x128.png
@@ -27,7 +27,7 @@ Followings are the guidelines of writing the pages.
   * angular_128x128.png
   * react-native_128x128.png
 
-### Title
+### >>> Title
 * Title should follow the title case.
 * Format of the title is, "Begin with {Technology Name}"
 * Icon also will stay together with the title.
@@ -40,32 +40,32 @@ Followings are the guidelines of writing the pages.
 ```
 * Note: RawGit is used to fetch the icon.
 
-### Official Links
+### >>> Official Links
 * Useful official links should goes here.
 * Ex:
   * Official Website
   * Docs / Guides
   * Github Repo
 
-### Content
+### >>> Content
 
-#### Intro
+#### >> Intro
 A breif explanation of the technology, problably in one or two sentences.
 
-#### QuickStart
+#### >> QuickStart
 This is the heart of the page. Idea of this section is to give a tiny and clear explanation for the beginners to experiment the relevant technology in no time.
 
-##### Installation
+##### > Installation
 Commands to install the prerequisites and the relevant technology.
   
-##### Create a new project
+##### > Create a new project
 This could be either creating a new project from scratch or creating a local project by cloning an official github example project.
 
-##### Run the project
+##### > Run the project
 Commands to run the project in dev or production enviroment.
 
 **NOTE: Headings of the QuickStart can be varied depending on the technology. So feel free to structure the headings according to the technology.**
 
-#### Courses & Tutorials
+#### >> Courses & Tutorials
 Since there might be tons of courses / videos and tutorials, let's try to keep some of most relevant, interesting and updated learning materials for helping the beginners to learn deeply in addition to our guide.
 
