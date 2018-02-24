@@ -1,4 +1,4 @@
-# ![MongoDB](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/mongodb.png "MongoDB.md") Begin with MongoDB
+# ![MongoDB](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/mongodb_128x128.png "MongoDB.md") Begin with MongoDB
 
 Official website: [https://www.mongodb.com](https://www.mongodb.com)
 
