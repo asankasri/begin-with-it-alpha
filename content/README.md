@@ -6,6 +6,8 @@ For writing the Begin With It pages, we will be using Markdown syntax. Following
 
 Followings are the guidelines of writing the pages which should be located in [/content](https://github.com/asankasri/begin-with-it-alpha/tree/master/content) directorly.
 
+After create a new page, please do not forget to add it in the main [README.md](https://github.com/asankasri/begin-with-it-alpha/blob/master/README.md) file.
+
 ## File Name
 * Name of the file should be lowercase and seperated with hyphen for multiple words
 * Files should be in .md format
