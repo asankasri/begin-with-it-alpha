@@ -1,4 +1,4 @@
-# ![Redis](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/redis.png "Redis") Begin with Redis
+# ![Redis](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/redis_128x128.png "Redis") Begin with Redis
 
 Official website: [https://redis.io](https://redis.io)
 
