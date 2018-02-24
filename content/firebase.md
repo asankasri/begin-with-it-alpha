@@ -1,4 +1,4 @@
-# ![Firebase](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/firebase.png "Firebase") Begin with Firebase
+# ![Firebase](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/firebase_128x128.png "Firebase") Begin with Firebase
 
 Official website: [https://firebase.google.com](https://firebase.google.com)
 
