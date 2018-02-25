@@ -36,12 +36,12 @@ After create a new page, please do not forget to add it in the main [README.md](
 * Icon also will stay together with the title.
 * Ex:
 ```
-# ![Angular](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/angular_128x128.png "Angular") Begin with Angular
+# ![Angular](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/angular_128x128.png "Angular") Begin with Angular
 ```
 ```
-# ![React Native](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/react-native_128x128.png "React Native") Begin with React Native
+# ![React Native](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/react-native_128x128.png "React Native") Begin with React Native
 ```
-* Note: RawGit is used to fetch the icon.
+* Note: raw.githubusercontent.com is used to fetch the icon.
 
 ### >>> Official Links
 * Useful official links should goes here.
