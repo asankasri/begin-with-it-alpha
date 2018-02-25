@@ -1,4 +1,4 @@
-# ![PHP](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/php_128x128.png "PHP") Begin with PHP
+# ![PHP](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/php_128x128.png "PHP") Begin with PHP
 
 Official website: [http://www.php.net](http://www.php.net)
 
