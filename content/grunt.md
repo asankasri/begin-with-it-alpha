@@ -1,4 +1,4 @@
-# ![Grunt](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/grunt_128x128.png "Grunt") Begin with Grunt
+# ![Grunt](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/grunt_128x128.png "Grunt") Begin with Grunt
 
 Official website: [https://gruntjs.com](https://gruntjs.com)
 
