@@ -1,4 +1,4 @@
-# ![Jenkins](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/jenkins_128x128.png "Jenkins") Begin with Jenkins
+# ![Jenkins](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/jenkins_128x128.png "Jenkins") Begin with Jenkins
 
 Official website: [https://jenkins.io](https://jenkins.io)
 
