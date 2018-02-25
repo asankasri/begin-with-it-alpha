@@ -1,4 +1,4 @@
-# ![Angular](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/angular_128x128.png "Angular") Begin with Angular
+# ![Angular](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/angular_128x128.png "Angular") Begin with Angular
 
 Official website: [https://angular.io](https://angular.io)
 
