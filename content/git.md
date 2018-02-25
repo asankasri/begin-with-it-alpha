@@ -1,4 +1,4 @@
-# ![Git](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/git_128x128.png "Git") Begin with Git
+# ![Git](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/git_128x128.png "Git") Begin with Git
 
 Official website: [https://git-scm.com](https://git-scm.com)
 
