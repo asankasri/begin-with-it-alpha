@@ -1,4 +1,4 @@
-# ![Ionic](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/ionic_128x128.png "Ionic") Begin with Ionic
+# ![Ionic](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/ionic_128x128.png "Ionic") Begin with Ionic
 
 Official website: [https://ionicframework.com/framework](https://ionicframework.com/framework)
 
