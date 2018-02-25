@@ -1,4 +1,4 @@
-# ![Less](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/less_128x128.png "Less") Begin with Less
+# ![Less](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/less_128x128.png "Less") Begin with Less
 
 Official website: [http://lesscss.org](http://lesscss.org)
 
