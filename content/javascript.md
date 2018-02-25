@@ -1,4 +1,4 @@
-# ![Javascript](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/javascript_128x128.png "Javascript") Begin with Javascript
+# ![Javascript](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/javascript_128x128.png "Javascript") Begin with Javascript
 
 Website (by Code School): [https://www.javascript.com](https://www.javascript.com)
 
