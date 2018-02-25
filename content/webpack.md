@@ -1,4 +1,4 @@
-# ![Webpack](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/webpack_128x128.png "Webpack") Begin with Webpack
+# ![Webpack](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/webpack_128x128.png "Webpack") Begin with Webpack
 
 Official website: [https://webpack.js.org](https://webpack.js.org)
 
