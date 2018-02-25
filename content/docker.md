@@ -1,4 +1,4 @@
-# ![Docker](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/docker_128x128.png "Docker") Begin with Docker
+# ![Docker](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/docker_128x128.png "Docker") Begin with Docker
 
 Official website: [https://www.docker.com](https://www.docker.com)
 
