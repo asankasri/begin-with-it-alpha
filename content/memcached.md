@@ -1,4 +1,4 @@
-# ![Memcached](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/memcached_128x128.png "Memcached") Begin with Memcached
+# ![Memcached](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/memcached_128x128.png "Memcached") Begin with Memcached
 
 Official website: [http://memcached.org](http://memcached.org)
 
