@@ -1,4 +1,4 @@
-# ![TypeScript](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/typescript_128x128.png "TypeScript") Begin with TypeScript
+# ![TypeScript](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/typescript_128x128.png "TypeScript") Begin with TypeScript
 
 Official website: [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
