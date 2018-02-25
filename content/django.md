@@ -1,4 +1,4 @@
-# ![Django](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/django_128x128.png "Django") Begin with Django
+# ![Django](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/django_128x128.png "Django") Begin with Django
 
 Official website: [https://www.djangoproject.com/](https://www.djangoproject.com/)
 
