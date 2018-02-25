@@ -1,4 +1,4 @@
-# ![Go](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/go_128x128.png "Go") Begin with Go
+# ![Go](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/go_128x128.png "Go") Begin with Go
 
 Official website: [https://golang.org](https://golang.org)
 
