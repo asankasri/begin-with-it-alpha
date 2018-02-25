@@ -1,4 +1,4 @@
-# ![Redux](https://rawgit.com/asankasri/begin-with-it-alpha/master/icons/redux_128x128.png "Redux") Begin with Redux
+# ![Redux](https://raw.githubusercontent.com/asankasri/begin-with-it-alpha/master/icons/redux_128x128.png "Redux") Begin with Redux
 
 Official website: [https://redux.js.org](https://redux.js.org)
 
